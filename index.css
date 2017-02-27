@@ -92,15 +92,15 @@
 
 .bg5
 {
- /* background-image: url("bg5.jpg");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-attachment: fixed;
-  -webkit-background-size:cover;
-  -moz-background-size:cover;
-  -o-background-size:cover;
-  background-size: cover; */
-  background-color: #292929;
+  background-image: url("images/mac.jpg");
+    height: auto; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px;	
+    color: #fff;
+}
 
 }
 .bg5 h1{
@@ -116,10 +116,14 @@
   background-color: #f7484e;
   padding: 50px;
   color:  #f2f2f2;
+  height: 650px;
 }
 .bg6 h1
 {
   font-size: 75px;
+}
+.bg6 p{
+	font-size: 15pt;
 }
 .contact
 {
